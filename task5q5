@@ -1,0 +1,3 @@
+input_string = "racecar"
+result = is_palindrome(input_string)
+print(result)  # This will print True since "racecar" is a palindrome.
